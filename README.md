@@ -2,6 +2,8 @@
 
 User Interface Design | C773 | Western Governors University
 
+To view the completed Task 2 project, navigate to: https://paradigmpexperts.netlify.app
+
 Task 1: Project Proposal with Strategies
 
 COMPETENCIES
