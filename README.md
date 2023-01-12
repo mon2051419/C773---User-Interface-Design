@@ -1,5 +1,7 @@
 # C773---User-Interface-Design
 
+To View Completed Project, navigate to: https://paradigmpexperts.netlify.app
+
 User Interface Design | C773 | Western Governors University
 
 Task 1: Project Proposal with Strategies
